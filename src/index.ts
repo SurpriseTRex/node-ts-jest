@@ -2,4 +2,4 @@ function hi(name: string) {
   console.log(name);
 }
 
-hi('brian');
+hi('sdf');
