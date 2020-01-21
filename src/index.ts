@@ -1,5 +1,5 @@
-const world = '🗺️';
-
-export function hello(word: string = world): string {
-  return `Hello ${word}!`;
+function hi(name: string) {
+  console.log(name);
 }
+
+hi('brian');
