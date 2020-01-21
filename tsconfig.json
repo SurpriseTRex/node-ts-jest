@@ -6,6 +6,6 @@
     "outDir": "dist",
     "sourceMap": true
   },
-  "include": ["src/**/*", "_tests/index.spec.ts"],
+  "include": ["src/**/*", "tests/index.spec.ts"],
   "exclude": ["node_modules", "**/*.spec.ts"]
 }
